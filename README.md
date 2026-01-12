@@ -14,7 +14,6 @@ npm start
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js
-- Database: MongoDB / MySQL
 
 ---
 
