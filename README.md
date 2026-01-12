@@ -1,6 +1,6 @@
 # 📝 Guestbook
 
-간단한 방명록 애플리케이션 연습 프로젝트입니다.
+간단한 작성 애플리케이션 연습 프로젝트입니다.
 
 
 ## 시작하기
@@ -14,7 +14,6 @@ npm start
 
 - Frontend: HTML, CSS, JavaScript
 - Backend: Node.js
-- Database: MongoDB / MySQL
 
 ---
 
